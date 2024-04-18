@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/PriyanshuSharma23/grpc_example/pb/employee"
+	"github.com/PriyanshuSharma23/protobuf_example/pb/employee"
 	"google.golang.org/protobuf/proto"
 )
 

@@ -1,4 +1,4 @@
-module github.com/PriyanshuSharma23/grpc_example
+module github.com/PriyanshuSharma23/protobuf_example
 
 go 1.21.6
 
